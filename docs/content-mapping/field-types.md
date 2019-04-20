@@ -9,7 +9,7 @@ Accepts single or multiple values. You should supply the filename only, excludin
 #### Additional Options
 
 - Upload remote asset (choose how to handle existing assets - Replace/Keep/Ignore)
-- [Inner-element fields](#inner-element-fields)
+- [Inner-element fields](/craft-plugins/feed-me/docs/content-mapping/field-types#inner-element-fields)
 
 :::code
 ```xml
@@ -70,8 +70,8 @@ Accepts single or multiple values.
 #### Additional Options
 
 - Create category if it does not exist
-- [Inner-element fields](#inner-element-fields)
-- [Set element attribute](#inner-element-fields) for data being imported
+- [Inner-element fields](/craft-plugins/feed-me/docs/content-mapping/field-types#inner-element-fields)
+- [Set element attribute](/craft-plugins/feed-me/docs/content-mapping/field-types#inner-element-fields) for data being imported
 - Title
 - ID
 - Slug
@@ -195,8 +195,8 @@ Accepts single or multiple values.
 #### Additional Options
 
 - Create entry if it does not exist
-- [Inner-element fields](#inner-element-fields)
-- [Set element attribute](#inner-element-fields) for data being imported
+- [Inner-element fields](/craft-plugins/feed-me/docs/content-mapping/field-types#inner-element-fields)
+- [Set element attribute](/craft-plugins/feed-me/docs/content-mapping/field-types#inner-element-fields) for data being imported
 - Title
 - ID
 - Slug
@@ -263,7 +263,7 @@ Accepts a single value. Can be provided as any boolean-like string.
 
 ### Matrix
 
-Check out [Importing into Matrix](../guides/importing-into-matrix.md) for a more comprehensive guide.
+Check out [Importing into Matrix](/craft-plugins/feed-me/docs/guides/importing-into-matrix) for a more comprehensive guide.
 
 ### Multi-select
 
@@ -435,7 +435,7 @@ Accepts single or multiple values.
 #### Additional Options
 
 - Create tag if it does not exist
-- [Inner-element fields](#inner-element-fields)
+- [Inner-element fields](/craft-plugins/feed-me/docs/content-mapping/field-types#inner-element-fields)
 
 :::code
 ```xml
@@ -470,8 +470,8 @@ Accepts single or multiple values.
 #### Additional Options
 
 - Create user if they do not exist
-- [Inner-element fields](#inner-element-fields)
-- [Set element attribute](#inner-element-fields) for data being imported
+- [Inner-element fields](/craft-plugins/feed-me/docs/content-mapping/field-types#inner-element-fields)
+- [Set element attribute](/craft-plugins/feed-me/docs/content-mapping/field-types#inner-element-fields) for data being imported
 - Email
 - ID
 - Username
@@ -505,17 +505,8 @@ Accepts single or multiple values.
 
 ## Third Party
 
-The following third-party fields are supported.
-
-- [Smart Map](https://github.com/doublesecretagency/craft-smartmap)
-- [Simple Map](https://github.com/ethercreative/simplemap)
-- [Super Table](https://verbb.io/craft-plugins/super-table)
-- [Solspace Calendars](https://solspace.com/craft/calendar)
-- [Digital Products](https://github.com/craftcms/digital-products)
-- [Commerce Products](https://docs.craftcms.com/commerce/v2/products-fields.html)
-- [Commerce Variants](https://docs.craftcms.com/commerce/v2/products-fields.html)
-- [Linkit](https://github.com/fruitstudios/linkit)
-- [Typed Link](https://github.com/sebastian-lenz/craft-linkfield)
+- [Smart Map](https://craftpl.us/plugins/smart-map/)
+- [Super Table](https://github.com/engram-design/SuperTable)
 
 ## Element Attributes
 
